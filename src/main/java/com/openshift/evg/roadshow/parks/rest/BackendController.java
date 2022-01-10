@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Provides information about this backend
- *
+ * asdf
  * Created by jmorales on 26/09/16.
  */
 @RequestMapping("/ws/info")
